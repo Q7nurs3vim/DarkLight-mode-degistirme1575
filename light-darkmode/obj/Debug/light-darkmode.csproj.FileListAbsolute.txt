@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\bin\Debug\light-darkmode.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\bin\Debug\light-darkmode.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\bin\Debug\light-darkmode.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light-darkmode.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light-darkmode.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light_darkmode.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light_darkmode.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light-darkmode.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light-darkmode.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light-darkmode.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\light-darkmode\light-darkmode\obj\Debug\light-darkmode.pdb
